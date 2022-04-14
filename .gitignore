@@ -10,3 +10,6 @@ __pycache__/
 # font folder
 iranian-sans
 *.ttf
+
+# images
+*.png
